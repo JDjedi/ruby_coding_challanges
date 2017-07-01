@@ -1,6 +1,0 @@
-
-
-def persistence(n)
-
-end
-
